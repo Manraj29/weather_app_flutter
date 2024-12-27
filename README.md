@@ -19,26 +19,24 @@ A Flutter-based weather application that allows users to view weather details ba
 
 | Home Page | City Selection | Settings Page | About Page |
 |-----------|----------------|---------------|------------|
-| ![Home Page](path/to/screenshot.png) | ![City Selection](path/to/screenshot.png) | ![Settings Page](path/to/screenshot.png) | ![About Page](path/to/screenshot.png) |
+| <img src="https://github.com/user-attachments/assets/f2be0210-86fd-4570-aaa0-932057f40da9" alt="home page" width="400px" /> | <img src="https://github.com/user-attachments/assets/36e5fead-6e0f-416f-86a5-9faec468ecfc" alt="city selection" width="400px"  />  | <img src="https://github.com/user-attachments/assets/255473cf-a666-4938-8a47-17bad41484ff" alt="settings page" width="400px"  />| <img src="https://github.com/user-attachments/assets/0ca167d8-ed23-4f8a-8682-b4b414e85229" alt="about page" width="400px"  /> |
 
-| 24-Hour Forecast | Next Two Days |
-|------------------|---------------|
-| ![24-Hour Forecast](path/to/screenshot.png) | ![Next Two Days](path/to/screenshot.png) |
+| 24-Hour Forecast & Next Two Days |
+|----------------------------------|
+| <img src="https://github.com/user-attachments/assets/50efbe4e-30ff-4f18-9c33-647bc0bb4bc7" alt="forecast" width="400px"  />|
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](path/to/screenshot.png) | ![Dark Mode](path/to/screenshot.png) |
-
-Logo: ![Weather App Logo](path/to/screenshot.png)
-
-> Replace `path/to/screenshot.png` with the actual paths to your screenshots.
+| <img src="https://github.com/user-attachments/assets/f2be0210-86fd-4570-aaa0-932057f40da9" alt="home page" width="400px" />  | <img src="https://github.com/user-attachments/assets/5413801e-b8b7-4873-b32d-28e5c76ed2e7" alt="dark mode" width="400px" /> |
+<br>
+Logo: <br><img src="https://github.com/user-attachments/assets/28dbabff-f1b6-4ed1-8f89-70927ced549d" alt="logo.png" width="200px"/>
 
 ---
 
 ## Installation & Setup 🛠️
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Manraj29/weather-app.git
    cd weather-app
     ```
 Install Dependencies: Ensure you have Flutter installed and run:
@@ -68,6 +66,7 @@ This app utilizes the following Flutter packages:
 - [geolocator](https://pub.dev/packages/geolocator) for location services.
 - [geocoding](https://pub.dev/packages/geocoding) for converting coordinates into readable addresses.
 - [shared_preferences](https://pub.dev/packages/shared_preferences) for persistent user preferences.
+- [http](https://pub.dev/packages/http) for API integration.
 - [flutter](https://flutter.dev) framework for building the UI.
 
 ---
